@@ -1,0 +1,16 @@
+e2e4 d7d6
+Bf1b5 c7c6
+Bb5c4 Nb8d7
+Qd1f3 Ng8h6
+Bc4f7 Nh6f7
+Qf3e3 a7a5
+Qe3d4 Ra8a6
+Qd4d3 b7b5
+Qd3f3 Bc8b7
+Nb1a3 b5b4
+Na3b1 Qd8c7
+Qf3e2 Ra6a7
+Qe2e3 Ra7a8
+Qe3d4 Ra8a6
+Qd4d3 Ra6a7
+Qd3d4 

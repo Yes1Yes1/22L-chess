@@ -1,0 +1,4 @@
+FOR USERS: 
+	Type 'cd bin' (this navigates you to the bin directory) and then type './ChessCooker'. This will run the executable and you will be playing chess! If you need more help please refer to the user manual in the doc directory.
+
+FOR DEVELOPERS: Type 'make' and the executable should compile in the bin directory. If you want to make the archives then type 'make tar' after compiling the executable. For more details refer to Chess_SoftwareSpec.pdf in the doc directory. 
