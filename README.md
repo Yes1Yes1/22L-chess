@@ -1,4 +1,4 @@
-# 22L-chess
+# 22L-chesscooker
 Author: The Chefs (Brandon Dinh, Miguel Vidal, Christopher Dao, Ryan Lockie)
 Version: 1.0
 Date: 4/23/23
