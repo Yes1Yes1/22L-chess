@@ -15,6 +15,6 @@ Click on a piece to select it. To move it, click on the space that you want to m
 If you want to castle, click on the king, then on the rook you want to castle with.
 If you get to the point where you can promote the pawn, then a menu will let you pick a piece to promote to. Just click on the corresponding piece.
 
-HAVE FUN!!! :))))))
+HAVE FUN!
 
 NOTE: Need SDL in order to display the ui and run the executable
